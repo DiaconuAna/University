@@ -14,7 +14,7 @@ Welcome! This is the place where I keep my university assignments along with cou
    
    • Databases
    
-   • [Methods of Advanced Programming](https://github.com/913-Diaconu-Ana/University/tree/main/Methods%20of%20Advanced%20Programming/Lab%20assignments/Assignment1)
+   • [Methods of Advanced Programming](https://github.com/913-Diaconu-Ana/University/tree/main/Methods%20of%20Advanced%20Programming)
    
    • Computer Networks
    
