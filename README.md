@@ -16,7 +16,7 @@ Welcome! This is the place where I keep my university assignments along with cou
    
    • [Methods of Advanced Programming](https://github.com/913-Diaconu-Ana/University/blob/main/Methods%20of%20Advanced%20Programming.md)
    
-   • Computer Networks
+   • [Computer Networks](https://github.com/913-Diaconu-Ana/University/blob/main/Computer%20Networks/Notes.md)
    
    • Probability and statistics
    
