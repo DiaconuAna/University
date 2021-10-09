@@ -1,0 +1,2 @@
+I usually take my notes using notion, here's a link to the notes of my first databases seminar
+[Seminar 1](https://unexpected-fin-7b2.notion.site/Seminar-1-2accdbe22b304fdf8d864d3bf15115a0)
