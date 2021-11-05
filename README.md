@@ -13,6 +13,6 @@ Welcome! This is the place where I keep my university assignments along with cou
    • [Functional and Logic Programming](https://github.com/913-Diaconu-Ana/Functional-and-Logic-Programming)\
    • [Databases](https://github.com/913-Diaconu-Ana/Databases)  
    • [Advanced Programming Methods](https://github.com/913-Diaconu-Ana/Advanced-Programming-Methods)\
-   • [Computer Networks](https://github.com/913-Diaconu-Ana/University/blob/main/Computer%20Networks/Notes.md)\
+   • [Computer Networks](https://github.com/913-Diaconu-Ana/ComputerNetworks)\
    • Probability and statistics
    
