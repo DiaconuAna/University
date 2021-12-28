@@ -14,5 +14,5 @@ Welcome! This is the place where I keep my university assignments along with cou
    • [Databases](https://github.com/913-Diaconu-Ana/Databases)  
    • [Advanced Programming Methods](https://github.com/913-Diaconu-Ana/Advanced-Programming-Methods)\
    • [Computer Networks](https://github.com/913-Diaconu-Ana/ComputerNetworks)\
-   • Probability and statistics
+   • [Probability and statistics](https://github.com/913-Diaconu-Ana/Probability-and-Statistics)
    
