@@ -8,7 +8,7 @@ Welcome! This is the place where I keep my university assignments along with cou
 
 ▶Semester 2 ***to be completed*** 
 
-▶Semester 3 ***to be completed*** 
+▶Semester 3 
  
    • [Functional and Logic Programming](https://github.com/913-Diaconu-Ana/Functional-and-Logic-Programming)\
    • [Databases](https://github.com/913-Diaconu-Ana/Databases)  
@@ -16,3 +16,7 @@ Welcome! This is the place where I keep my university assignments along with cou
    • [Computer Networks](https://github.com/913-Diaconu-Ana/ComputerNetworks)\
    • [Probability and statistics](https://github.com/913-Diaconu-Ana/Probability-and-Statistics)
    
+▶Semester 4 ***to be completed***
+
+   • [Artificial Intelligence](https://github.com/DiaconuAna/Artificial-Intelligence)
+   • [Web Programming](https://github.com/DiaconuAna/Web-Programming)
