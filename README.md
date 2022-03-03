@@ -7,6 +7,7 @@ Welcome! This is the place where I keep my university assignments along with cou
 ▶Semester 1 ***to be completed***
 
 ▶Semester 2 ***to be completed*** 
+   - [Object Oriented Programming](https://github.com/DiaconuAna/OOP)
 
 ▶Semester 3 
  
