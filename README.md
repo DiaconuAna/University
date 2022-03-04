@@ -19,5 +19,5 @@ Welcome! This is the place where I keep my university assignments along with cou
    
 ▶Semester 4 ***to be completed***
 
-   - [Artificial Intelligence](https://github.com/DiaconuAna/Artificial-Intelligence)\
+   - [Artificial Intelligence](https://github.com/DiaconuAna/Artificial-Intelligence)
    - [Web Programming](https://github.com/DiaconuAna/Web-Programming)
