@@ -5,6 +5,7 @@
 Welcome! This is the place where I keep my university assignments along with courses, info dumps and other helpful things!
 
 ▶Semester 1 ***to be completed***
+   - [Fundamentals of Programming](https://github.com/DiaconuAna/Fundamentals-of-Programming)
 
 ▶Semester 2 ***to be completed*** 
    - [Object Oriented Programming](https://github.com/DiaconuAna/OOP)
