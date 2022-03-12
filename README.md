@@ -9,6 +9,7 @@ Welcome! This is the place where I keep my university assignments along with cou
 
 ▶Semester 2 ***to be completed*** 
    - [Object Oriented Programming](https://github.com/DiaconuAna/OOP)
+   - [Data Structures and Algorithms](https://github.com/DiaconuAna/Data-Structures-and-Algorithms)
 
 ▶Semester 3 
  
