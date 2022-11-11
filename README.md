@@ -19,8 +19,14 @@ Welcome! This is the place where I keep my university assignments along with cou
    * [Computer Networks](https://github.com/913-Diaconu-Ana/ComputerNetworks)
    * [Probability and statistics](https://github.com/913-Diaconu-Ana/Probability-and-Statistics)
    
-▶Semester 4 ***in progress***
+▶Semester 4 ***to be completed***
 
    - [Artificial Intelligence](https://github.com/DiaconuAna/Artificial-Intelligence)
    - [Web Programming](https://github.com/DiaconuAna/Web-Programming)
    - [Database Management Systems](https://github.com/DiaconuAna/Databases-Management-Systems)
+   
+▶Semester 5 ***in progress***
+   
+   - [Public Key Cryptography](https://github.com/DiaconuAna/Public-Key-Cryptography)
+   - [Parallel and Distributed Programming](https://github.com/DiaconuAna/Parallel-and-Distributed-Programming)
+   - [Formal Languages and Compiler Design](https://github.com/DiaconuAna/Formal-Languages-and-Compiler-Design)
