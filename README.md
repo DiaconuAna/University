@@ -30,3 +30,4 @@ Welcome! This is the place where I keep my university assignments along with cou
    - [Public Key Cryptography](https://github.com/DiaconuAna/Public-Key-Cryptography)
    - [Parallel and Distributed Programming](https://github.com/DiaconuAna/Parallel-and-Distributed-Programming)
    - [Formal Languages and Compiler Design](https://github.com/DiaconuAna/Formal-Languages-and-Compiler-Design)
+   - [Mobile Applications](https://github.com/DiaconuAna/Mobile-Applications)
