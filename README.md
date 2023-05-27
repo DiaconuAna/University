@@ -25,9 +25,16 @@ Welcome! This is the place where I keep my university assignments along with cou
    - [Web Programming](https://github.com/DiaconuAna/Web-Programming)
    - [Database Management Systems](https://github.com/DiaconuAna/Databases-Management-Systems)
    
-▶Semester 5 ***in progress***
+▶Semester 5 
    
    - [Public Key Cryptography](https://github.com/DiaconuAna/Public-Key-Cryptography)
    - [Parallel and Distributed Programming](https://github.com/DiaconuAna/Parallel-and-Distributed-Programming)
    - [Formal Languages and Compiler Design](https://github.com/DiaconuAna/Formal-Languages-and-Compiler-Design)
    - [Mobile Applications](https://github.com/DiaconuAna/Mobile-Applications)
+
+▶Semester 6 ***in progress***
+
+   - [Design Patterns](https://github.com/DiaconuAna/Design-Patterns)
+   - [SSVV](https://github.com/DiaconuAna/SSVV)
+   - [Network and System Administration](https://github.com/DiaconuAna/NSA)
+   - [Numerical Calculus](https://github.com/DiaconuAna/Numerical-Calculus)
