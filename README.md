@@ -2,10 +2,11 @@
 
 ***this is a work in progress***
 
-Welcome! This is the place where I keep my university assignments along with courses, info dumps and other helpful things!
+Welcome! This is the place where I keep my university assignments along with courses, info dumps, and other helpful things!
 
-▶Semester 1 ***to be completed***
+▶Semester 1
    - [Fundamentals of Programming](https://github.com/DiaconuAna/Fundamentals-of-Programming)
+   - [Computer System Architecture](https://github.com/DiaconuAna/Computer-System-Architecture)
 
 ▶Semester 2 ***to be completed*** 
    - [Object Oriented Programming](https://github.com/DiaconuAna/OOP)
