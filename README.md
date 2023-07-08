@@ -7,10 +7,12 @@ Welcome! This is the place where I keep my university assignments along with cou
 ▶Semester 1
    - [Fundamentals of Programming](https://github.com/DiaconuAna/Fundamentals-of-Programming)
    - [Computer System Architecture](https://github.com/DiaconuAna/Computer-System-Architecture)
+   - [Algebra](https://github.com/DiaconuAna/Algebra)
 
-▶Semester 2 ***to be completed*** 
+▶Semester 2
    - [Object Oriented Programming](https://github.com/DiaconuAna/OOP)
    - [Data Structures and Algorithms](https://github.com/DiaconuAna/Data-Structures-and-Algorithms)
+   - [Graph Algorithms](https://github.com/DiaconuAna/Graph-Algorithms/tree/main)
 
 ▶Semester 3 
  
