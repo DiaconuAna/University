@@ -13,6 +13,7 @@ Welcome! This is the place where I keep my university assignments along with cou
    - [Object Oriented Programming](https://github.com/DiaconuAna/OOP)
    - [Data Structures and Algorithms](https://github.com/DiaconuAna/Data-Structures-and-Algorithms)
    - [Graph Algorithms](https://github.com/DiaconuAna/Graph-Algorithms/tree/main)
+   - [Dynamical Systems](https://github.com/DiaconuAna/Dynamical-Systems)
 
 ▶Semester 3 
  
