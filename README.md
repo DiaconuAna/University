@@ -28,6 +28,7 @@ Welcome! This is the place where I keep my university assignments along with cou
    - [Artificial Intelligence](https://github.com/DiaconuAna/Artificial-Intelligence)
    - [Web Programming](https://github.com/DiaconuAna/Web-Programming)
    - [Database Management Systems](https://github.com/DiaconuAna/Databases-Management-Systems)
+   - [Software Engineering](https://github.com/DiaconuAna/Software-Engineering)
    
 ▶Semester 5 
    
