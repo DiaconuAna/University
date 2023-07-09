@@ -23,12 +23,13 @@ Welcome! This is the place where I keep my university assignments along with cou
    * [Computer Networks](https://github.com/913-Diaconu-Ana/ComputerNetworks)
    * [Probability and statistics](https://github.com/913-Diaconu-Ana/Probability-and-Statistics)
    
-▶Semester 4 ***to be completed***
+▶Semester 4 
 
    - [Artificial Intelligence](https://github.com/DiaconuAna/Artificial-Intelligence)
    - [Web Programming](https://github.com/DiaconuAna/Web-Programming)
    - [Database Management Systems](https://github.com/DiaconuAna/Databases-Management-Systems)
    - [Software Engineering](https://github.com/DiaconuAna/Software-Engineering)
+   - [Systems for Design and Implementation](https://github.com/DiaconuAna/Systems-for-Design-and-Implementation)
    
 ▶Semester 5 
    
