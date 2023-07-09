@@ -1,6 +1,5 @@
 # University
 
-***this is a work in progress***
 
 Welcome! This is the place where I keep my university assignments along with courses, info dumps, and other helpful things!
 
@@ -38,7 +37,7 @@ Welcome! This is the place where I keep my university assignments along with cou
    - [Formal Languages and Compiler Design](https://github.com/DiaconuAna/Formal-Languages-and-Compiler-Design)
    - [Mobile Applications](https://github.com/DiaconuAna/Mobile-Applications)
 
-▶Semester 6 ***in progress***
+▶Semester 6
 
    - [Design Patterns](https://github.com/DiaconuAna/Design-Patterns)
    - [SSVV](https://github.com/DiaconuAna/SSVV)
